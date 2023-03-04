@@ -3,7 +3,7 @@
 * [香港中文大学2012年分布课程](https://www.bilibili.com/video/BV1L741157c9/?vd_source=34cd8d2b0fb479356f12c97a7c49b68a)
 ，配套书籍：[分布式系统概念与设计]()
 ## 拔高课程
-* [MIT 6.824 2020分布式系统](https://www.bilibili.com/video/BV1CU4y1P7PE/?vd_source=34cd8d2b0fb479356f12c97a7c49b6)
+* [MIT 6.824 2020分布式系统](https://www.bilibili.com/video/BV1R7411t71W)
 * [MIT 6.824 2021 分布式系统](https://www.bilibili.com/video/BV16f4y1z7kn/?spm_id_from=333.337.search-card.all.click&vd_source=34cd8d2b0fb479356f12c97a7c49b68a)
 * [DDIA](https://book.douban.com/subject/30329536/) 作者分布式系统设计公开课分享-必看:[介绍](https://www.bilibili.com/video/BV1p84y187t3/?vd_source=34cd8d2b0fb479356f12c97a7c49b68a) /[正式课程](https://www.bilibili.com/video/BV1J3411876e/)
 * [加州大学圣克鲁斯分校 CSE138《分布式系统》课程 (2021) by Lindsey Kuper](https://b23.tv/VisFvCo)
@@ -18,9 +18,6 @@
 
 * 分布式算法导论[]
 * [分布式算法精髓](https://item.jd.com/13200799.html)
-
-
-
-
-
+* 分布式实时系统原理与设计方法
+* 大规模分布式系统的任务分配算法
 

@@ -16,7 +16,7 @@
 
 主要是一些分布式算法相关，知道常见的分布式算法。主要书籍：
 
-* 分布式算法导论[]
+* [分布式算法导论](https://github.com/JeyXu/Distributed-System/blob/main/theory/pdf/%E5%88%86%E5%B8%83%E5%BC%8F%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA.pdf)
 * [分布式算法精髓](https://item.jd.com/13200799.html)
 
 

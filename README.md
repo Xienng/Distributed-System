@@ -1,9 +1,9 @@
 # Distributed-Systems
 分布式系统学习
 
-#Guide-如何拓宽知识边界
+# Guide-如何拓宽知识边界
 
-##搜索最新计算机论文方法
+## 搜索最新计算机论文方法
 
 * [DBLP](https://dblp.org/search/)
   
@@ -59,3 +59,7 @@ USENIX会议的网站：https://www.usenix.org/publications
 * https://www.zhihu.com/question/20643420
 * https://zhuanlan.zhihu.com/p/56369013
 * 书籍：[形式化方法导论](https://book.douban.com/subject/26928529/)
+
+# 目录说明
+
+**持续更新中，欢迎Star！** 

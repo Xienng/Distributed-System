@@ -21,8 +21,9 @@
 * [谷歌学术](https://scholar.google.com.hk/?hl=zh-CN)
 * [Microsoft学术搜索](https://www.microsoft.com/en-us/research/search/)
 
-如果要找PPT，也可以从 https://www.slideshare.net/ 搜索试试。
+PPT搜索： https://www.slideshare.net/
 
+书籍搜索：https://books.google.com/?hl=zh-CN
 
 ## 论文期刊排名
 [Wikipedia的协作排名](https://en.wikipedia.org/wiki/List_of_computer_science_conferences)
